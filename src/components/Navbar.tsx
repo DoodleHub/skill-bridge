@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.svg";
+import Logo from "../assets/images/logo.svg";
 import { Button } from "./Button";
 
 const NAV_ITEMS = [
